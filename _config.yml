@@ -27,7 +27,7 @@ search: true
 
 author:
   name   : "Audrey Oliver"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot2021.jpeg"
   bio    : "Computational Science PhD student (SDSU–UC Irvine JDP). Data-driven modeling of dengue and other climate-influenced vector-borne diseases."
   links:
     - label: "Email"
