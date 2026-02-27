@@ -1,14 +1,13 @@
 ---
-# Only the main Sass file needs front matter (the dashes are important)
+# Only the main Sass file needs front matter
 ---
 
 @import "minimal-mistakes";
 
-/* Make the masthead logo a circular headshot */
-.masthead .site-logo img,
-.masthead img.site-logo {
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
+/* Make the navbar logo circular */
+.masthead .site-logo img {
+  border-radius: 50% !important;
+  width: 40px !important;
+  height: 40px !important;
   object-fit: cover;
 }
