@@ -33,4 +33,5 @@ Air-Borne and Vector-Borne Diseases”* at **ACSESS 2025**. I shread our early r
 At this event, I had the honor of recieving two awards! I recieved the CSRC Alumni award, for my project at the ACSESS event, which was evaluated by faculty and industry collaborators, consisting of three components: A concise, 5-minute presentation of the project, a 1-minute Blitz (overview) talk, and poster session. 
 
 Additionally, I recieved the Raymond Moberly Outstanding Service Award, which requires nomination by faculty. This is given for exceptional service and mentorship in the Computational Science and Engineering community at SDSU, honoring academic excellence and impactful student and community engagement.
+
 ---
