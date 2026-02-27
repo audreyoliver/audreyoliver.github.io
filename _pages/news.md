@@ -8,9 +8,9 @@ author_profile: false
 ## 2026
 
 ### Feb 27, 2026 — Website launch
-![Site preview](/assets/images/news/site-launch.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
+![Site preview](/assets/images/news/webpage_ss.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
 
-I launched my personal research website to share updates on my work in data-driven epidemiological modeling, including dengue case reconstruction and climate-informed Rₜ estimation.  
+I launched my personal research website to share updates on my work in infectious disease modeling, including data-driven epidemiological modeling, including dengue case reconstruction and climate-informed Rₜ estimation!  
 **Links:** [Home](/) · [Research](/research/) · [CV](/cv/)
 
 ---
