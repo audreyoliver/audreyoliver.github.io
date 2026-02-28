@@ -24,6 +24,13 @@ Presented *“Framework for Data-Driven Modeling to Estimate Reproduction Number
 
 ## 2025
 
+### Apr 30, 2025 — Awarded Funding for SIAM SDSU Student Chapter 
+
+I am happy to announce that the SIAM SDSU Student Chapter has recieved funding to attend JMM 2026 has been accepted! As the treasurer for the SIAM SDSU Student chapter, I had the pleasure of submitting a proposal for funding of our organization to the SDSU Student Success Fee, in which we were awarded $19,967 for students to attend the JMM 2026 Conference. This will support 13 students in the organization (undregraduates and graduates) in attending JMM 2026, with all expenses convered, to contribute to their university experience and professional development!
+
+---
+
+
 ### Mar 21, 2025 — ACSESS Awards
 ![Conference photo](/assets/images/news/ACSESS_2025_Award.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
 
@@ -37,6 +44,12 @@ Additionally, I recieved the **Raymond Moberly Outstanding Service Award**, whic
 ---
 
 ## 2024
+
+### Sept 1, 2024 — SIAM SDSU Student Chapter Treasurer
+
+I am excited for my new position as Treasuer of the SIAM SDSU Student Chapter! Through this position, I hope to manage our organization's budget, and secure funding for various events throughout the academic year to promote a fun, productive, and useful organization for students.
+
+---
 
 ### Aug 20, 2024 — I started my PhD!
 
