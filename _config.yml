@@ -16,7 +16,7 @@
 title: "Audrey Oliver"
 logo: "/assets/images/headshot2021.jpeg"
 email: &EMAIL "audreyoliver88@gmail.com"
-description: "Computational science PhD student working on data-driven epidemiological modeling and climate-influenced vector-borne diseases."
+description: "Computational scientist specializing in infectious disease modeling, integrating mechanistic models, statistical inference, and machine learning to study transmission dynamics and therapeutic strategies."
 github_username: &GITHUB audreyoliver
 
 url: "https://audreyoliver.github.io"
