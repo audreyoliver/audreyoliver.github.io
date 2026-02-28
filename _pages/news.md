@@ -15,7 +15,7 @@ I launched my personal research website to share updates on my work in infectiou
 
 ---
 
-### Jan 05, 2026 — Conference presentation
+### Jan 05, 2026 — JMM Talk 
 ![Conference photo](/assets/images/news/JMM2026_Presentation.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
 
 Presented *“Framework for Data-Driven Modeling to Estimate Reproduction Numbers…”* at **JMM 2026**. I shared results on reconstructing daily dengue incidence from weekly reports and using the reconstructed series for reproduction-number estimation.
@@ -28,10 +28,37 @@ Presented *“Framework for Data-Driven Modeling to Estimate Reproduction Number
 ![Conference photo](/assets/images/news/ACSESS_2025_Award.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
 
 Presented *“Framework for Data-Driven Modeling to Estimate Reproduction Numbers, the Most Critical Epidemic Thresholds, of
-Air-Borne and Vector-Borne Diseases”* at **ACSESS 2025**. I shread our early results on reconstructing daily dengue incidence from weekly reports and using the reconstructed series for reproduction-number estimation. 
+Air-Borne and Vector-Borne Diseases”* at **ACSESS 2025**. I shared our early results on reconstructing daily dengue incidence from weekly reports and using the reconstructed series for reproduction-number estimation. 
 
-At this event, I had the honor of recieving two awards! I recieved the CSRC Alumni award, for my project at the ACSESS event, which was evaluated by faculty and industry collaborators, consisting of three components: A concise, 5-minute presentation of the project, a 1-minute Blitz (overview) talk, and poster session. 
+At this event, I had the honor of recieving two awards! I recieved the **CSRC Alumni Award**, for my project at the ACSESS event, which was evaluated by faculty and industry collaborators, consisting of three components: A concise, 5-minute presentation of the project, a 1-minute Blitz (overview) talk, and poster session. 
 
-Additionally, I recieved the Raymond Moberly Outstanding Service Award, which requires nomination by faculty. This is given for exceptional service and mentorship in the Computational Science and Engineering community at SDSU, honoring academic excellence and impactful student and community engagement.
+Additionally, I recieved the **Raymond Moberly Outstanding Service Award**, which requires nomination by faculty. This is given for exceptional service and mentorship in the Computational Science and Engineering community at SDSU, honoring academic excellence and impactful student and community engagement.
 
 ---
+
+## 2024
+
+### Aug 20, 2024 — I started my PhD!
+
+After finishing my Master's in May, I am excited to begin my PhD in Computational Science. Through this joint program between San Diego State University and University of California Irvine, I am excited to work across departments to use my background in mathematical modeling in public health.
+
+---
+
+### Mar 21, 2024 — ACSESS Event and Awards!
+
+Presented *“Mathematical Models for HIV Infection in the Brain: Implications for Treatment Regimens”* at **ACSESS 2024**. I shared two projects regarding HIV infection in the blood and brain, coupled via the blood-brain barrier, alongside an interactve dashboard I created to supplement the projects, to help aid in choosing the optimal combination of drugs to take as medication (antiretroviral therapy) for HIV.
+
+![Conference photo](/assets/images/news/ACSESS_2024_Award.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
+
+At this event, I had the honor of recieving the **Women in Computational Science and Engineering Award**, for my project at the ACSESS event, which was evaluated by faculty and industry collaborators, consisting of three components: A concise, 5-minute presentation of the project, a 1-minute Blitz (overview) talk, and poster session. This award recognizes outstanding performance and dedication to research as a woman in engineering/science. 
+
+---
+
+### Jan 06, 2024 — JMM Talk 
+![Conference photo](/assets/images/news/Moscone_2024.jpg){: .align-center style="max-width:700px; border-radius:12px;"}
+
+I presented *“Mathematical Models for HIV Infection in the Brain”* at **JMM 2024** in San Francisco, California. This was my first talk at a major conference and was very exciting (and nervewracking). 
+
+
+
+
