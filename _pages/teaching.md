@@ -44,4 +44,4 @@ I view computational literacy as an essential component of modern mathematical a
 
 ---
 
-For curated lab materials and example notebooks, please see the **Lab Materials** section.
+For curated lab materials and example notebooks, please see the [Lab Materials](/teaching/labs/) page
