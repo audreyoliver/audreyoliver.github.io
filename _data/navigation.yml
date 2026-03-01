@@ -9,6 +9,7 @@ main:
     url: /news/
   - title: "Teaching"
     url: /teaching/
+    children:
       - title: "Lab Materials"
         url: /teaching/labs/
   - title: "CV"
