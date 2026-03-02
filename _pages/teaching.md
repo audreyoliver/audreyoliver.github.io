@@ -27,8 +27,10 @@ Lab topics included:
 - Activation functions and modeling  
 - Symbolic computation and visualization  
 
-My labs were designed to connect analytical concepts with hands-on computational experimentation, emphasizing reproducibility and clean coding practices.
+My labs were designed to connect analytical concepts with hands-on computational experimentation, emphasizing reproducibility and clean coding practices.  
 
+**For curated lab materials and example notebooks, please see the [Lab Materials →](/teaching/labs/){: .btn .btn--primary } page
+**
 ---
 
 ## Instructional Approach
@@ -41,7 +43,3 @@ In computational instruction, I prioritize:
 - Developing independent problem-solving skills  
 
 I view computational literacy as an essential component of modern mathematical and scientific training.
-
----
-
-For curated lab materials and example notebooks, please see the [Lab Materials →](/teaching/labs/){: .btn .btn--primary } page
