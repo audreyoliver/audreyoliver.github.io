@@ -51,3 +51,46 @@
   margin-bottom: 3rem;
   opacity: 0.3;
 }
+
+/* --- Masthead dropdown support (children) --- */
+.greedy-nav .visible-links li.has-children {
+  position: relative;
+}
+
+.greedy-nav .visible-links li.has-children > a::after {
+  content: "▾";
+  margin-left: 0.35rem;
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+.greedy-nav .visible-links li.has-children .submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 210px;
+  padding: 0.5rem 0;
+  margin: 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  z-index: 9999;
+}
+
+.greedy-nav .visible-links li.has-children:hover .submenu,
+.greedy-nav .visible-links li.has-children:focus-within .submenu {
+  display: block;
+}
+
+.greedy-nav .visible-links li.has-children .submenu a {
+  display: block;
+  padding: 0.45rem 1rem;
+  white-space: nowrap;
+}
+
+.greedy-nav .visible-links li.has-children .submenu a:hover {
+  background: rgba(0,0,0,0.04);
+}
