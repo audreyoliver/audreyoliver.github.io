@@ -13,7 +13,7 @@ author_profile: true
 
 ## Manuscripts in Preparation
 
-**Climate-Driven Dengue Reproduction Numbers via Machine-Learning Reconstruction of High-Resolution Incidence from Sparse Surveillance3**  
+**Climate-Driven Dengue Reproduction Numbers via Machine-Learning Reconstruction of High-Resolution Incidence from Sparse Surveillance**  
 Manuscript in preparation.
 
 **Modeling Pharmacodynamics of ART for HIV Infection in the Brain**  
