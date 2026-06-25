@@ -7,7 +7,6 @@ author_profile: true
 classes: wide
 
 ---
--------------
 
 ## Research Overview
 
