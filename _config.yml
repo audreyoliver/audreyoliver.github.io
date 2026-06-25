@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Audrey Oliver"
-logo: "/assets/images/Headshot.jpeg"
+logo: "/assets/images/Headshot.jpg"
 email: &EMAIL "audreyoliver88@gmail.com"
 description: "Computational scientist developing mathematical and data-driven methods to improve surveillance, modeling, and control of vector-borne diseases. My research integrates mechanistic models, machine learning, and environmental data to support public health decision-making."
 github_username: &GITHUB audreyoliver
@@ -28,7 +28,7 @@ search: true
 
 author:
   name   : "Audrey Oliver"
-  avatar : "/assets/images/Headshot.jpeg"
+  avatar : "/assets/images/Headshot.jpg"
   bio    : "Computational scientist developing mathematical and machine-learning methods for infectious disease surveillance, vector-borne disease modeling, and public health decision-making."
   links:
     - label: "Email"
