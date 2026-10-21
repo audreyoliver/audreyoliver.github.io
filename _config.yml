@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Audrey Oliver"
 logo: "/assets/images/Headshot.jpg"
-email: &EMAIL "audreyoliver88@gmail.com"
+email: &EMAIL "akoliver@sdsu.edu"
 description: "Computational scientist developing mathematical and data-driven methods to improve surveillance, modeling, and control of vector-borne diseases. My research integrates mechanistic models, machine learning, and environmental data to support public health decision-making."
 github_username: &GITHUB audreyoliver
 

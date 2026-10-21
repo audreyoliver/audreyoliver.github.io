@@ -222,3 +222,42 @@
   font-weight: 600;
   color: #6b7280;
 }
+
+/* ---------------------------------- */
+/* Contact page                       */
+/* ---------------------------------- */
+
+.page__content .contact-role {
+  margin-bottom: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.contact-grid {
+  margin-top: 2rem;
+}
+
+.contact-card .project-card__title i {
+  margin-right: 0.3rem;
+  color: #2c6bed;
+}
+
+.page__content .contact-card p {
+  margin-bottom: 0.4rem;
+}
+
+.page__content .contact-card__note {
+  font-size: 0.8em;
+  color: #6b7280;
+}
+
+.page__content .contact-card__links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.85em;
+}
+
+.contact-card__links li {
+  margin-bottom: 0.4rem;
+}
