@@ -1,0 +1,9 @@
+<script>
+  // Underline the menu tab for the current section
+  document.querySelectorAll(".greedy-nav .visible-links a").forEach(function (link) {
+    var path = new URL(link.href).pathname;
+    if (path !== "/" && window.location.pathname.indexOf(path) === 0) {
+      link.classList.add("current-tab");
+    }
+  });
+</script>
