@@ -18,7 +18,7 @@ Currently, my work focuses on models for vector-borne diseases like dengue. I'm 
 
 <div class="project-grid">
 
-  <div class="project-card">
+  <div class="project-card" id="surveillance">
     <span class="project-card__status">Current</span>
     <h3 class="project-card__title">Disease Surveillance &amp; Data-Driven Modeling</h3>
     <p>Reliable disease surveillance is essential for understanding outbreaks, yet many public health agencies report disease cases weekly or monthly rather than daily. I develop machine-learning methods that reconstruct high-resolution disease incidence from sparse surveillance records while incorporating climate and environmental information.</p>
@@ -30,7 +30,7 @@ Currently, my work focuses on models for vector-borne diseases like dengue. I'm 
     </ul>
   </div>
 
-  <div class="project-card">
+  <div class="project-card" id="transmission">
     <span class="project-card__status">Current</span>
     <h3 class="project-card__title">Vector-Borne Disease Transmission</h3>
     <p>Unlike diseases that spread directly from person to person, vector-borne diseases such as dengue fever involve interactions between humans and mosquito populations. I develop mathematical frameworks that better represent these transmission dynamics.</p>
@@ -42,7 +42,7 @@ Currently, my work focuses on models for vector-borne diseases like dengue. I'm 
     </ul>
   </div>
 
-  <div class="project-card">
+  <div class="project-card" id="nepal">
     <span class="project-card__status">Current</span>
     <h3 class="project-card__title">Dengue Treatment Deserts in Nepal</h3>
     <p>Timely diagnosis and care are critical for reducing severe dengue outcomes, but access to treatment is uneven across regions. This project identifies dengue treatment deserts in Nepal: areas where dengue burden is high but access to healthcare facilities is limited.</p>
@@ -63,7 +63,7 @@ During my Masters, I developed models of HIV infection dynamics and treatment re
 
 <div class="project-grid">
 
-  <div class="project-card project-card--previous">
+  <div class="project-card project-card--previous" id="hiv-art">
     <span class="project-card__status">M.S. Research</span>
     <h3 class="project-card__title">Pharmacodynamic Modeling of Antiretroviral Therapy and Drug Resistance</h3>
     <ul class="project-card__points">
