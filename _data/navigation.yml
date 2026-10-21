@@ -1,14 +1,12 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "News"
-    url: /news/
   - title: "Teaching"
     url: /teaching/
+  - title: "News"
+    url: /news/
   - title: "CV"
     url: /cv/
   - title: "Contact"

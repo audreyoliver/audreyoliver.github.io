@@ -2,45 +2,58 @@
 layout: splash
 permalink: /
 title: "Audrey Oliver"
-author_profile: true
+excerpt: "Ph.D. Student in Computational Science · San Diego State University & UC Irvine"
 
 header:
   overlay_image: /assets/images/IMG_2091.jpeg
   overlay_filter: "0.25"
   actions:
-    - label: "CV"
-      url: /cv/
     - label: "Research"
       url: /research/
+    - label: "Contact"
+      url: /contact/
 
 intro:
-  - excerpt: "Computational scientist developing mathematical and data-driven methods to improve surveillance, modeling, and control of vector-borne diseases. My research integrates mechanistic models, machine learning, and environmental data to support public health decision-making."
+  - excerpt: "I use math to help create better outcomes in patient care and public health, from within-host models of drug treatment to population-level models of how disease spreads. Currently, my work focuses on models for vector-borne diseases like dengue."
 
 feature_row:
   - title: "Research"
-    excerpt: "Mathematical and computational methods for disease surveillance, transmission modeling, and mosquito population dynamics."
+    excerpt: "Models for disease surveillance, vector-borne disease transmission, and access to dengue treatment, plus earlier work on HIV pharmacodynamics."
     url: /research/
-    btn_label: "Learn More"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 
   - title: "Publications"
-    excerpt: "Publications, manuscripts, conference presentations, and posters."
+    excerpt: "Manuscripts in progress on dengue and HIV modeling."
     url: /publications/
-    btn_label: "View"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 
   - title: "Teaching"
-    excerpt: "Teaching, mentorship, and instructional experience in mathematics and computational science."
+    excerpt: "Teaching assistant for Programming in Mathematics (Math 340) at San Diego State University."
     url: /teaching/
-    btn_label: "See"
-    btn_class: "btn--primary"
-
-  - title: "News"
-    excerpt: "Recent highlights during my PhD."
-    url: /news/
-    btn_label: "See"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+<div class="home-news">
+  <h2>Recent News</h2>
+  <ul class="home-news__list">
+    <li>
+      <span class="home-news__date">Jan 2026</span>
+      <span>Presented a framework for climate-driven dengue reproduction numbers at the Joint Mathematics Meetings (JMM 2026).</span>
+    </li>
+    <li>
+      <span class="home-news__date">Apr 2025</span>
+      <span>Secured $19,967 in funding for 13 SIAM SDSU Student Chapter members to attend JMM 2026.</span>
+    </li>
+    <li>
+      <span class="home-news__date">Mar 2025</span>
+      <span>Received the CSRC Alumni Award and the Raymond Moberly Outstanding Service Award at ACSESS 2025.</span>
+    </li>
+  </ul>
+  <p class="home-news__more"><a href="/news/">All news →</a></p>
+</div>

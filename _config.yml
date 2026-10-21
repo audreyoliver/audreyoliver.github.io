@@ -15,21 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 title: "Audrey Oliver"
 logo: "/assets/images/Headshot.jpg"
+og_image: "/assets/images/social-preview.jpg"
 email: &EMAIL "akoliver@sdsu.edu"
-description: "Computational scientist developing mathematical and data-driven methods to improve surveillance, modeling, and control of vector-borne diseases. My research integrates mechanistic models, machine learning, and environmental data to support public health decision-making."
+description: "Ph.D. student in Computational Science at San Diego State University & UC Irvine, using mathematical models of infectious diseases to help create better outcomes in patient care and public health."
 github_username: &GITHUB audreyoliver
 
 url: "https://audreyoliver.github.io"
 baseurl: ""
 
 minimal_mistakes_skin: default
-search: true
+search: false
 
 
 author:
   name   : "Audrey Oliver"
   avatar : "/assets/images/Headshot.jpg"
-  bio    : "Computational scientist developing mathematical and machine-learning methods for infectious disease surveillance, vector-borne disease modeling, and public health decision-making."
+  bio    : "Ph.D. student in Computational Science at SDSU & UC Irvine, building mathematical models of infectious diseases."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
