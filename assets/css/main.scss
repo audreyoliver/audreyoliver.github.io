@@ -52,3 +52,93 @@
   opacity: 0.3;
 }
 
+
+/* ---------------------------------- */
+/* Research project cards             */
+/* ---------------------------------- */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  background-color: #fff;
+  border: 1px solid #e3e6ea;
+  border-top: 4px solid #2c6bed;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.project-card--previous {
+  border-top-color: #8a94a6;
+}
+
+.project-card__status {
+  align-self: flex-start;
+  margin-bottom: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #2c6bed;
+  background-color: rgba(44, 107, 237, 0.1);
+  border-radius: 999px;
+}
+
+.project-card--previous .project-card__status {
+  color: #5a6475;
+  background-color: rgba(138, 148, 166, 0.15);
+}
+
+.page__content .project-card__title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.1em;
+  line-height: 1.3;
+}
+
+.page__content .project-card p {
+  margin-bottom: 0.9rem;
+  font-size: 0.85em;
+}
+
+.page__content .project-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: auto 0 0;
+  padding: 0.5rem 0 0;
+  list-style: none;
+}
+
+.project-card__tags li {
+  margin: 0;
+  padding: 0.1rem 0.55rem;
+  font-size: 0.7em;
+  color: #494e52;
+  background-color: #f2f3f5;
+  border-radius: 4px;
+}
+
+.page__content .project-card__points {
+  margin: 0 0 0.9rem;
+  padding-left: 1.1rem;
+  font-size: 0.85em;
+}
+
+.page__content .project-card__points li {
+  margin-bottom: 0.5rem;
+}
