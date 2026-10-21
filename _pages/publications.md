@@ -17,6 +17,9 @@ classes: full-width
 **Climate-Driven Dengue Reproduction Numbers via Machine-Learning Reconstruction of High-Resolution Incidence from Sparse Surveillance**  
 Manuscript in preparation.
 
+**Identifying Climate-Informed Treatment Deserts for Dengue Fever in Nepal**  
+Manuscript in preparation.
+
 **Modeling Pharmacodynamics of ART for HIV Infection in the Brain**  
 Manuscript in preparation.
 
