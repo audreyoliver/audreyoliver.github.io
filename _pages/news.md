@@ -3,6 +3,7 @@ layout: single
 title: "News & Updates"
 permalink: /news/
 author_profile: false
+classes: full-width
 ---
 
 ## 2026

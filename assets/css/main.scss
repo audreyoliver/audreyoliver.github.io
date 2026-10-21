@@ -142,3 +142,15 @@
 .page__content .project-card__points li {
   margin-bottom: 0.5rem;
 }
+
+/* ---------------------------------- */
+/* Full-width pages (no sidebar)      */
+/* ---------------------------------- */
+
+@media (min-width: 1024px) {
+  .full-width .page {
+    float: none;
+    width: 100%;
+    padding-inline-end: 0;
+  }
+}

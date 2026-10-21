@@ -3,6 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: false
+classes: full-width
 ---
 
 I welcome inquiries related to research collaboration, internships, and modeling applications in infectious disease and public health.

@@ -47,6 +47,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: !join ["https://github.com/", *GITHUB]
 
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
