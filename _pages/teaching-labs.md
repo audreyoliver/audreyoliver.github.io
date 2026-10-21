@@ -3,7 +3,6 @@ layout: single
 title: "Lab Materials"
 permalink: /teaching/labs/
 author_profile: false
-sidebar:
-  nav: "teaching"
+published: false
 ---
 Polished lab materials coming soon.
