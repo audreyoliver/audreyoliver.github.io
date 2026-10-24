@@ -15,7 +15,7 @@ You can download my CV here:
 ### Preview
 
 <iframe 
-  src="/assets/files/AudreyOliver_CV.pdf"
+  src="/assets/files/CV_Oliver.pdf"
   width="100%"
   height="900px"
   style="border: 1px solid #ddd; border-radius: 8px;">
